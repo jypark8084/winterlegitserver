@@ -150,3 +150,10 @@ button.server-btn:active {
     cursor: pointer;
     color: blue; /* 클릭 가능하다는 느낌을 주기 위해 파란색으로 설정 */
 }
+.download-button{
+    color:blue;
+    float: right;
+}
+.download-button2{
+    color:blue;
+}
